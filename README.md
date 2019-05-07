@@ -1,8 +1,8 @@
-# DIFFERENCE OF CONVOLUTION FOR DEEP COMPRESSIVE SENSING 
-## Abstract
+## DIFFERENCE OF CONVOLUTION FOR DEEP COMPRESSIVE SENSING 
+### Abstract
 Deep learning-based compressive sensing (DCS) has improved the compressive sensing (CS) with fast and high reconstruction quality. Researchers have further extended it to multi-scale DCS which improves reconstruction quality based on Wavelet decomposition. In this work, we mimic the Difference of Gaussian via convolution and propose a scheme named as Difference of convolution-based multi-scale DCS (DoC-DCS). Unlike the multi-scale DCS based on a well-designed filter in wavelet domain, the proposed DoC-DCS learns decomposition, thereby, outperforms other state-of-the-art compressive sensing methods. 
 
-## Citation
+### Citation
 Please cite this paper if you use the source code
  @article{Canh2019_DoCDCS,
    title={Difference of Convolution for Deep Compressive Sensing},
@@ -11,7 +11,7 @@ Please cite this paper if you use the source code
    year={2019}
  }
 
-## Disclaimer
+### Disclaimer
 Copyright (c) 2019 Thuong Nguyen Canh
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
