@@ -16,8 +16,8 @@ addpath('D:\matconvnet-1.0-beta25\matlab\mex');     % Link to your Matconvnet Me
 % addpath('matconvnet-1.0-beta25\matlab');
 
 addpath('.\utilities');
-folderTest  = 'Classic13_512';
-networkTest = {'DoC-CSNet1' 'DoC-CSNet2' 'DoC-CSNet3'};      % 10
+folderTest  = 'Set14';
+networkTest = {'DoC-DCS1', 'DoC-DCS2', 'DoC-DCS3'};      % 10
 
 showResult  = 0;
 writeRecon  = 1;
