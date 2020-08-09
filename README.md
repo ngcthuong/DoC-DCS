@@ -12,6 +12,10 @@ Please cite this paper if you use the source code
    year={2019}
  }
 ```
+
+### Training Code
+Training code with three phase training is added. Dataset is created follow this [DnCNN repo](https://github.com/cszn/DnCNN). 
+
 ### Disclaimer
 Copyright (c) 2019 Thuong Nguyen Canh
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
