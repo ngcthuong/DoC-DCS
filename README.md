@@ -16,6 +16,17 @@ Please cite this paper if you use the source code
 ### Training Code
 Training code with three phase training is added. Dataset is created follow this [DnCNN repo](https://github.com/cszn/DnCNN). 
 
+
+### Additional results 
+several test set in comparison with MS-DCI 
+![image](https://user-images.githubusercontent.com/6524339/110087668-cae42a00-7d48-11eb-8adf-86b6e1626027.png)
+
+
+512x512 images
+![image](https://user-images.githubusercontent.com/6524339/110087562-ac7e2e80-7d48-11eb-94b9-c18d6a31dc0f.png)
+
+In general, DoC-DCS has better quality than our MS-DCI paper (TCI-2020)
+
 ### Disclaimer
 Copyright (c) 2019 Thuong Nguyen Canh
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
